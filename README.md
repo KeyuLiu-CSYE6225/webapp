@@ -7,6 +7,6 @@ Prerequisites:
 Build and Deploy instructions:
 1. Open project by IntelliJ IDEA or other IDE
 2. Create Database in MySQL with name : cloud_db
-3. Modify the application.propoties with your database info
+3. Modify the application.propoties with your database info user and password for mysql
 4. Run the application
 
